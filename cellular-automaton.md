@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 研究紹介
+title: セルオートマトンとは
 permalink: /research-activity/cellular-automaton
 ---
 
