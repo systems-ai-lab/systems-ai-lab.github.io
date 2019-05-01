@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 研究紹介
-permalink: /research-activity/
+permalink: /research-activity/introduce
 ---
 
 私たちが住むこの世界には、さまざまな生命、社会、自然現象が見受けられます。
