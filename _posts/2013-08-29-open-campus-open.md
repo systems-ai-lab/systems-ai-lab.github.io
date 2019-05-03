@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 豊橋技術科学大学夏休みオープンキャンパスに参加します
+title: 2013 年度 豊橋技術科学大学夏休みオープンキャンパスに参加します
 date: 2013-08-28 13:51:00 +0900
 ---
+
+![poster]({{site.baseurl}}/img/9ee4c78736424b6f856e201aa524090c-212x300.jpg)
 
 # 和算・数学パズルをコンピュータで体験しよう！
 今年も8月31日に[豊橋技術科学大学夏休みオープンキャンパス](http://www.tut.ac.jp/exam/opencampus/opencampus2013/index.html)が行われます。

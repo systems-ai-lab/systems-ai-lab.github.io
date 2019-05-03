@@ -8,6 +8,8 @@ permalink: /introduce-research/multi-agent-system
 エージェントというと何を思い浮かべますか？プロ野球とか映画とか・・・、人によって思い浮かべるものは様々でしょう。
 ここでいうエージェントとは、ある動作をしてくれる人のようなものです。ただし本物の人ではなく、自律して動作するという側面を抜き出したモデルです。
 
+![multi-agent-system-1]({{site.baseurl}}/img/multi-agent-system-1.png)
+
 # マルチエージェントシステム
 マルチエージェントシステムとは、多数のエージェントを用意することで問題の解決を行うシステムのことです。
 
@@ -20,6 +22,8 @@ permalink: /introduce-research/multi-agent-system
 
 膨大な数のエージェントの相互作用がどのような結果になるのかを予測するのは困難です。
 そこで、私たちの研究室では、コンピュータでシミュレーションを行い調べています。
+
+![multi-agent-system-2]({{site.baseurl}}/img/multi-agent-system-2.png)
 
 # 具体的な例
 ## 工場

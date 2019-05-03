@@ -5,6 +5,8 @@ permalink: /introduce-research/genetic-automaton
 ---
 
 # 遺伝的アルゴリズム
+![genetic-algorithm-1]({{site.baseurl}}/img/genetic-algorithm-1.png)
+
 遺伝的アルゴリズムとは生物進化を模倣した近似解を探索する解探索アルゴリズムです。
 遺伝的アルゴリズムが模倣した生物進化はダーウィンの進化論に基づいています。
 ダーウィンの進化論を簡単に説明すると以下のようになります。
@@ -16,6 +18,8 @@ permalink: /introduce-research/genetic-automaton
 
 # 遺伝的アルゴリズムの応用
 ## 新幹線「N700 系」のフロントノーズの設計
+![genetic-algorithm-2]({{site.baseurl}}/img/genetic-algorithm-2.jpg)
+
 新幹線「N700系」のフロントノーズの設計には遺伝的アルゴリズムが利用されました。
 「N700系」は従来の新幹線よりも速く設計されています。しかし、その速さによって生じる騒音が問題となりました。
 
