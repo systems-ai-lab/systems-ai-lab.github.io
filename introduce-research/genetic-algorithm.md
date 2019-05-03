@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: 遺伝的アルゴリズム
-date: 2010-12-19 18:30:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/genetic-automaton
 ---
 
 # 遺伝的アルゴリズム

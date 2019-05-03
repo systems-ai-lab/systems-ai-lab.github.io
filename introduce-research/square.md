@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: 方陣
-date: 2010-12-19 18:29:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/square
 ---
 
 # 方陣ってなに？

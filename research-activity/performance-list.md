@@ -1,7 +1,10 @@
 ---
 layout: page
 title: 業績一覧
+date: 2010-10-07 20:00:00 +0900
+permalink: /research-activity/performance-list
 ---
+
 
 # 書籍
 1. Y. Ishida, Immunity-Based Systems: A Design Perspective, Springer-Verlag, 2004. (ISBN: 3-540-00896-9)

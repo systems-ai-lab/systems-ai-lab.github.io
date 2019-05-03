@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: セルオートマトン
-date: 2010-12-19 18:26:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/cellular-automaton
 ---
 
 # セルオートマトンとは

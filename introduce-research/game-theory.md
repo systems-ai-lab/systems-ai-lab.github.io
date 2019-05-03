@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: ゲーム理論
-date: 2010-12-19 18:29:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/game-theory
 ---
 
 # ゲーム理論

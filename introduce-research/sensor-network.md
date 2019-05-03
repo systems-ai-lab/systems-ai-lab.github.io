@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: センサーネットワーク
-date: 2011-01-10 14:17:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/sensor-network
 ---
 
 # センサーネットワーク

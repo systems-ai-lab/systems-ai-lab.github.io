@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: マルチエージェントシステム
-date: 2010-12-19 18:28:00 +0900
-permalink: /research-activity/:title
+permalink: /introduce-research/multi-agent-system
 ---
 
 # エージェント
