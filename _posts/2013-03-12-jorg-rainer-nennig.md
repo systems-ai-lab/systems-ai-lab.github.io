@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jörg Rainer Noennig教授がお越しになりました
+title: Jörg Rainer Noennig 教授がお越しになりました
 date: 2013-03-12 18:18:00 +0900
 ---
 
