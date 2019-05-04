@@ -25,7 +25,7 @@ github_username:
 header_pages:
   - about/index.md
   - research-activity/index.md
-  - sangaku/index.md
+  # - sangaku/index.md
 
 # Build settings
 markdown: kramdown
