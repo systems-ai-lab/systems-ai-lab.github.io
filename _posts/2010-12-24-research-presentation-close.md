@@ -10,7 +10,7 @@ date: 2010-12-24 12:00:00 +0900
 多くの学生にとって、学部生としては最後の研究発表の場であり、研究室に配属されてから初めての研究発表でもあります。
 当研究室からは 4 名の学生が参加し、発表を行いました。
 
-![DSC01286]({{site.baseurl}}/img/DSC01286-300x225.jpg)
-![DSC01294]({{site.baseurl}}/img/DSC01294-300x225.jpg)
-![DSC01300]({{site.baseurl}}/img/DSC01300-300x225.jpg)
-![DSC01307]({{site.baseurl}}/img/DSC01307-300x225.jpg)
+![DSC01286]({{site.baseurl}}/img/2010-12-24-research-presentation-close-1.jpg)
+![DSC01294]({{site.baseurl}}/img/2010-12-24-research-presentation-close-2.jpg)
+![DSC01300]({{site.baseurl}}/img/2010-12-24-research-presentation-close-3.jpg)
+![DSC01307]({{site.baseurl}}/img/2010-12-24-research-presentation-close-4.jpg)

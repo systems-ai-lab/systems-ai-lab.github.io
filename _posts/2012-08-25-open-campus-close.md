@@ -10,6 +10,6 @@ date: 2012-08-25 20:48:00 +0900
 
 当日の様子などはこちらもご覧ください >> [オープンキャンパス2012](http://www.sys.cs.tut.ac.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9/2012%E5%B9%B4%E5%BA%A6/)
 
-![P8250131]({{site.baseurl}}/img/P8250129.jpg)
-![P8250129]({{site.baseurl}}/img/P8250131.jpg)
-![IMG_0287]({{site.baseurl}}/img/IMG_0287.jpg)
+![P8250131]({{site.baseurl}}/img/2012-08-25-open-campus-close-1.jpg)
+![P8250129]({{site.baseurl}}/img/2012-08-25-open-campus-close-2.jpg)
+![IMG_0287]({{site.baseurl}}/img/2012-08-25-open-campus-close-3.jpg)

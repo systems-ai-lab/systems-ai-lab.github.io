@@ -11,6 +11,6 @@ date: 2011-08-27 16:00:00 +0900
 
 当日の様子などはこちらもご覧ください >> [オープンキャンパス2011](http://www.sys.cs.tut.ac.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9/2011%E5%B9%B4%E5%BA%A6/)
 
-![oc1_2011]({{site.baseurl}}/img/oc1_2011.jpg)
-![oc2_2011]({{site.baseurl}}/img/oc2_2011.jpg)
-![oc3_2011]({{site.baseurl}}/img/oc3_2011.jpg)
+![oc1_2011]({{site.baseurl}}/img/2011-08-27-open-campus-close-1.jpg)
+![oc2_2011]({{site.baseurl}}/img/2011-08-27-open-campus-close-2.jpg)
+![oc3_2011]({{site.baseurl}}/img/2011-08-27-open-campus-close-3.jpg)

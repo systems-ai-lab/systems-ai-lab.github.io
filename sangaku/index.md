@@ -10,3 +10,5 @@ permalink: /sangaku/
 図形の中に隠されているルールを「視覚的に」理解することができます。
 
 ![circleandrencangle]({{site.baseurl}}/img/circleandrencangle.png)
+
+[動く算額博物館へ](http://www.sys.cs.tut.ac.jp/sangaku/)

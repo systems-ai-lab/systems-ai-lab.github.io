@@ -10,6 +10,6 @@ date: 2012-10-21 21:03:00 +0900
 また希望された方々にプレゼントしていた誕生日方陣も好評でした。
 ご来場してくださった方々、またサポートしていただいた学生の皆さんも大変お疲れ様でした。
 
-![IMG_0321]({{site.baseurl}}/img/IMG_0321.jpg)
-![IMG_0325]({{site.baseurl}}/img/IMG_0325.jpg)
-![IMG_0327]({{site.baseurl}}/img/IMG_0327.jpg)
+![IMG_0321]({{site.baseurl}}/img/2012-10-10-school-festival-close-1.jpg)
+![IMG_0325]({{site.baseurl}}/img/2012-10-10-school-festival-close-2.jpg)
+![IMG_0327]({{site.baseurl}}/img/2012-10-10-school-festival-close-3.jpg)

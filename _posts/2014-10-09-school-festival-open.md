@@ -10,4 +10,4 @@ date: 2014-10-09 23:26:00 +0900
 
 F-512で展示を行っていますので、ぜひ足をお運びください。
 
-![poster]({{site.baseurl}}/img/8cb23c7a0f5963b7a3622d01bc3c97c01.jpg)
+![poster]({{site.baseurl}}/img/2013-10-09-school-festival-open.jpg)

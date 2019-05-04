@@ -10,4 +10,4 @@ date: 2011-09-20 13:36:00 +0900
 
 ぜひ足をお運びください。
 
-![school-festival-34]({{site.baseurl}}/img/school-festival-34.jpg)
+![school-festival-34]({{site.baseurl}}/img/2011-09-20-school-festival-open.jpg)

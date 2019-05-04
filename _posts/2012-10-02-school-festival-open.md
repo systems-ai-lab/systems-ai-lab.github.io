@@ -10,4 +10,4 @@ date: 2012-10-02 17:04:00 +0900
 
 ぜひ足をお運びください。
 
-![P8250131]({{site.baseurl}}/img/8cb23c7a0f5963b7a3622d01bc3c97c01.jpg)
+![P8250131]({{site.baseurl}}/img/2012-10-02-school-festival-open.jpg)

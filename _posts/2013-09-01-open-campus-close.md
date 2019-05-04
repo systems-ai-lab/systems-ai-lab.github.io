@@ -8,6 +8,6 @@ date: 2013-09-01 13:28:00 +0900
 当研究室で開発した方陣のパズルゲームを参加者に体験していただき、方陣の楽しさや難しさを実感してもらいました。
 たくさんのご来場大変ありがとうございました。
 
-![oc-2013-1]({{site.baseurl}}/img/5a961e66a4a97dedecee6f39df6b1fbd-150x150.jpg)
-![oc-2013-2]({{site.baseurl}}/img/000e73fb78eef01970a3c86dcb5907f1-150x150.jpg)
-![oc-2013-3]({{site.baseurl}}/img/3dbf21d582e60430a9446f945e40d73d-150x150.jpg)
+![oc-2013-1]({{site.baseurl}}/img/2013-09-01-open-campus-close-1.jpg)
+![oc-2013-2]({{site.baseurl}}/img/2013-09-01-open-campus-close-2.jpg)
+![oc-2013-3]({{site.baseurl}}/img/2013-09-01-open-campus-close-3.jpg)

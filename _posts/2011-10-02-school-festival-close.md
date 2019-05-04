@@ -9,6 +9,6 @@ date: 2011-10-02 17:00:00 +0900
 私たちの行っている研究についてより多くの方に知っていただけたと思います。
 また、「じゃんけんゲーム」には200人以上の方に挑戦して頂きました。最高連勝記録は8勝でした。
 
-![PA0101001]({{site.baseurl}}/img/PA0101001-300x225.jpg)
-![PA020107]({{site.baseurl}}/img/PA020107-300x225.jpg)
-![PA010095]({{site.baseurl}}/img/PA010095-300x225.jpg)
+![PA0101001]({{site.baseurl}}/img/2011-10-02-school-festival-close-1.jpg)
+![PA020107]({{site.baseurl}}/img/2011-10-02-school-festival-close-2.jpg)
+![PA010095]({{site.baseurl}}/img/2011-10-02-school-festival-close-3.jpg)

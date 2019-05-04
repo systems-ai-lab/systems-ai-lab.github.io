@@ -9,6 +9,6 @@ date: 2012-10-10 13:41:00 +0900
 私たちの行っている研究についてより多くの方に知っていただけたと思います。
 また、「じゃんけんゲーム」では10回勝負中9勝勝たれた方が最高勝利記録でした。
 
-![PA070433]({{site.baseurl}}/img/PA070433-300x225.jpg)
-![PA070434]({{site.baseurl}}/img/PA070434-300x225.jpg)
-![PA0704321]({{site.baseurl}}/img/PA0704321-300x225.jpg)
+![PA070433]({{site.baseurl}}/img/2012-10-10-school-festival-close-1.jpg)
+![PA070434]({{site.baseurl}}/img/2012-10-10-school-festival-close-2.jpg)
+![PA0704321]({{site.baseurl}}/img/2012-10-10-school-festival-close-3.jpg)

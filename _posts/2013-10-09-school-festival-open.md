@@ -9,4 +9,4 @@ date: 2013-09-01 13:28:00 +0900
 
 ぜひ足をお運びください。
 
-![poster]({{site.baseurl}}/img/8cb23c7a0f5963b7a3622d01bc3c97c01.jpg)
+![poster]({{site.baseurl}}/img/2013-10-09-school-festival-open.jpg)

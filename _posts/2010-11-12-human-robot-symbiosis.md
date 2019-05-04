@@ -8,4 +8,4 @@ date: 2010-11-12 14:53:00 +0900
 当研究室からも博士課程の学生が 2 名、ポスターセッションに参加します。
 詳しくは [人間・ロボット共生リサーチセンター](http://robot.tut.ac.jp/activity.html) のホームページをご覧下さい。
 
-![symposium2010]({{site.baseurl}}/img/symposium2010-212x300.jpg)
+![symposium2010]({{site.baseurl}}/img/2010-11-12-human-robot-symbiosis.jpg)
