@@ -26,4 +26,4 @@ permalink: /about/
 TEL: 0532-47-0111
 
 # お問い合わせ
-Mail: syslabai (at) gmail.com
+Mail: sysailab (at) gmail.com
