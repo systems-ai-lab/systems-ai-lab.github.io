@@ -8,7 +8,7 @@ permalink: /research-activity/performance-list
 
 # 書籍
 1. [Y. Ishida, Immunity-Based Systems: A Design Perspective, Springer-Verlag, 2004. (ISBN: 3-540-00896-9)](http://www.springer.com/computer/artificial/book/978-3-540-00896-5?cm_mmc=Google-_-Book%20Search-_-Springer-_-0)
-2.[石田好輝 編、石田好輝、平山博史、藤田博之、石黒章夫、森一之共著、 免疫型システムとその応用–免疫系に学んだ知能システム–、コロナ社、 1998.](http://www.coronasha.co.jp/np/detail.do?goods_id=103)
+2. [石田好輝 編、石田好輝、平山博史、藤田博之、石黒章夫、森一之共著、 免疫型システムとその応用–免疫系に学んだ知能システム–、コロナ社、 1998.](http://www.coronasha.co.jp/np/detail.do?goods_id=103)
 3. Y. Ishida ” Studies on Diagnosability and Syndrome Decoding of Models in System Diagnosis,” Ph.D. dissertation, Kyoto University, 1986.
 
 # 本の章、レクチャーノート
