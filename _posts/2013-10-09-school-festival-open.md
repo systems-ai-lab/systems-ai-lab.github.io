@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第36回技科大祭に参加します
+title: 第 36 回 技科大祭に参加します
 date: 2013-09-01 13:28:00 +0900
 ---
 
@@ -9,4 +9,4 @@ date: 2013-09-01 13:28:00 +0900
 
 ぜひ足をお運びください。
 
-![poster]({{site.baseurl}}/img/2013-10-09-school-festival-open.jpg)
+![poster]({{site.baseurl}}/img/2012-10-02-school-festival-open.jpg)
