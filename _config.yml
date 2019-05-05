@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Systems Ai Lab
+title: 石田研究室（Systems Ai Lab.）
 email: sysailab (at) gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: "豊橋技術科学大学 情報・知能工学系 石田研究室（システム科学研究室；Systems Ai Lab.）" # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,7 +25,7 @@ github_username:
 header_pages:
   - about/index.md
   - research-activity/index.md
-  # - sangaku/index.md
+  - link/index.md
 
 # Build settings
 markdown: kramdown
