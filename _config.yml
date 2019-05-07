@@ -25,6 +25,7 @@ github_username:
 header_pages:
   - about/index.md
   - research-activity/index.md
+  - member/index.md
   - link/index.md
 
 # Build settings
