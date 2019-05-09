@@ -24,7 +24,7 @@ permalink: /member/
 - 秘書
 - Mail: ss030 [at] edu.tut [dot] ac.jp
 
-# 学生（2015 年度以前は卒業・修了した学生のみ）
+# 学生（2019 年度以外は卒業・修了した学生のみ）
 - [2019 年度]({{  site.baseurl  }}{% link member/2019.md %})
 - [2018 年度]({{  site.baseurl  }}{% link member/2018.md %})
 - [2017 年度]({{  site.baseurl  }}{% link member/2017.md %})
